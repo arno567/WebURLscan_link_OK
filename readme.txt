@@ -2,4 +2,4 @@
 2.若搜集过来的url量很大，不能确定采用的是http还是https，没关系工具会对所有url进行http和https测试。（识别的url格式：http://xxxx/xx、https://xxx/xx、xxx.xxx/xxx/）
 3.优点：检测准确率高，运用线程池检查速度较快。
 4.缺点：有些网站通过https访问会跳转到防火墙或者vpn 识别结果也会是正常。
-5.简单使用：python3 web可用性检测工具.py
+5.简单使用：根据脚本头信息安装对应的模块后-python3 web可用性检测工具.py
