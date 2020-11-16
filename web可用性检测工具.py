@@ -93,7 +93,7 @@ def doxlsx(dirname):#获取url列
         for i in range(1,columnsMaxNum+1):#获取url在第几列
             url_colums = str(sheet.cell(row=1, column=i).value)
             if url_colums:
-                if url_colums in "网站域名|域名|URL|url|域名/URL|域名/url|链接":
+                if url_colums in "网站域名|域名|URL|url|域名/URL|域名/url|链接|登录地址|URL访问地址|URL链接地址|URL访问路径":
                     url_colum_num = int(i)
                 num += 1
 
