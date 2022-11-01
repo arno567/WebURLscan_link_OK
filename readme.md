@@ -5,3 +5,8 @@
 3. 优点：检测准确率高，运用线程池检查速度较快；直接修改xlsx文件方便写报告。
 4. 缺点：有些网站通过https访问会跳转到防火墙或者vpn 识别结果也会是正常。
 5. 简单使用：根据脚本头信息安装对应的模块后-python3 web可用性检测工具.py
+
+### 展示
+<div align=center>
+<img src="https://github.com/arno567/WebURLscan_link_OK/blob/master/%E7%BB%93%E6%9E%9C%E5%AE%9E%E4%BE%8B.png" width="800" height="600" />
+</div>
