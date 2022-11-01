@@ -8,5 +8,5 @@
 
 ### 展示
 <div align=center>
-<img src="https://github.com/arno567/WebURLscan_link_OK/blob/master/%E7%BB%93%E6%9E%9C%E5%AE%9E%E4%BE%8B.png" width="800" height="600" />
+<img src="https://github.com/arno567/WebURLscan_link_OK/blob/master/%E7%BB%93%E6%9E%9C%E5%AE%9E%E4%BE%8B.png" />
 </div>
